@@ -1,3 +1,7 @@
+![snake gif]
+(https://github.com/mojoee/mojoee/blob/output/github-contribution-grid-snake.gif)
+
+
 ### Hi there 👋
 
 
