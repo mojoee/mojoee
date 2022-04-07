@@ -7,8 +7,8 @@
 
 # Intro
 
-- 🔭 I’m currently working on optimization of RMFS
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on optimization of RMFS and OCR for image scans
+- 🌱 I’m currently learning AMPL
 - 👯 I’m looking to collaborate on any machine learning/ optimization projects that can enhance my skills! Reach out to me :)
 - 🤔 I’m looking for help with my research :D
 - 💬 Ask me about anything
