@@ -1,6 +1,6 @@
 
-![GitHub Snake Light](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-hue18.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-hue198.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-what-you-didnt-say.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-what-you-didnt-say.svg#gh-dark-mode-only)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
